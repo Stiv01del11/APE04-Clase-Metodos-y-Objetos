@@ -30,7 +30,7 @@ class Estudiante {
     }
 }
 
-public class Main1 {
+public class Ejercicio1 {
     public static void main(String[] args) {
         Estudiante[] estudiantes = {
             new Estudiante("Carlos", 8.5, 9.0, 7.5),
